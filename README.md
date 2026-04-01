@@ -14,6 +14,6 @@ _Welcome to my GitHub! I am currently a Cybersecurity Major at UTSA. Outside of 
 ![Gaming](https://img.shields.io/badge/Gaming-9146FF?logo=gamepad&logoColor=white)
 ![Golf](https://img.shields.io/badge/Golf-2E7D32?logo=topgolf&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<bbop1019>)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/bbop1019)
 
 _"If you ain't first, you're last. -Ricky Bobby"_ 🏎️
